@@ -1,3 +1,4 @@
+monopoly=
 def base_hash
   monopoly={:railroads=>{}}
   # Remember implicit return! We're returning this new Hash _without_ the
